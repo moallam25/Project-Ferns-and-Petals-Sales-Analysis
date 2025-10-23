@@ -1,4 +1,4 @@
- 📊 #Data-Driven Sales & Operations Analysis : **Ferns and Petals Case Study**
+ ## 📊 Data-Driven Sales & Operations Analysis : **Ferns and Petals Case Study**
 _____________________________________________________________________________________________________________________________________________________________
 
 📌 **Project Overview**  
